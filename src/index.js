@@ -6,7 +6,7 @@ import Projects from "./Projects";
 import Contact from "./Contact";
 
 const root = ReactDom.createRoot(document.getElementById("root"));
-
+console.log("welcome to my portfolio")
 root.render(
     <>
     <Hero/>
