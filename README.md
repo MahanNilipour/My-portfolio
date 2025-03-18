@@ -1,4 +1,5 @@
 # My-portfolio
+Welcome to my portfolio! You can view the live version here: [View live deployment](https://mahannilipour.github.io/My-portfolio/)
 
 ## Overview
 This is my personal portfolio to showcase my web development skills. It includes sections about me, the technologies I use, my projects, and a way to contact me.
