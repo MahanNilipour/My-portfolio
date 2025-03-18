@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.0f9dcdf7.js",
-    "index.html": "/my-portfolio/index.html",
-    "main.0f9dcdf7.js.map": "/my-portfolio/static/js/main.0f9dcdf7.js.map"
+    "main.js": "/My-portfolio/static/js/main.d2ca8ce2.js",
+    "static/media/nyan-cat.png": "/My-portfolio/static/media/nyan-cat.c67e8c2f14b76066630d.png",
+    "static/media/slingair.png": "/My-portfolio/static/media/slingair.c9f007de1d6ee51bde62.png",
+    "static/media/tic-tac-toe.png": "/My-portfolio/static/media/tic-tac-toe.45d19d120e528ba1a130.png",
+    "index.html": "/My-portfolio/index.html",
+    "main.d2ca8ce2.js.map": "/My-portfolio/static/js/main.d2ca8ce2.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f9dcdf7.js"
+    "static/js/main.d2ca8ce2.js"
   ]
 }
